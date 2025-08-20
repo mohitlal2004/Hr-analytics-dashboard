@@ -4,8 +4,8 @@
 
 ### Project Overview
 
-- This project presents an interactive Power BI dashboard built using a structured dataset.
-- The dashboard provides key insights into performance metrics such as maximum, minimum, and average values, along with detailed breakdowns across different categories.
+- This project presents a Recruitment Dashboard developed in Power BI to analyze and visualize recruitment and employee data. 
+- The dashboard provides HR and management teams with a comprehensive view of the hiring process, workforce distribution, and salary structure.
 
 
 ## Dashboard:
